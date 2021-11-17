@@ -1,0 +1,4 @@
+libffi7
+python-pygobject
+gobject-introspection-runtime
+gobject-introspection

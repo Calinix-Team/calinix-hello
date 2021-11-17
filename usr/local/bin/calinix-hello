@@ -1,0 +1,2 @@
+#!/usr/bin/env bash
+python3 /usr/share/calinix-hello/calinix-hello.py
